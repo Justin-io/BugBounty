@@ -1,0 +1,6 @@
+{
+  "name": "Alex Security Research Academy",
+  "description": "An interactive bug bounty engineering and application-security research platform built around the 26-module Bug Bounty Engineering curriculum, featuring protocol laboratories, hypothesis-driven vulnerability simulations, spaced repetition, exploit-chain modeling, and evidence-backed reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
